@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+📖 Những gì bạn đã học trong Bài 1:
+    Text Interpolation ({{ }}) - Hiển thị dữ liệu trong template
+    Attribute Binding (v-bind:) - Ràng buộc thuộc tính HTML
+    Event Handling (@click) - Xử lý sự kiện
+    Conditional Rendering (v-if, v-show) - Hiển thị có điều kiện
+    List Rendering (v-for) - Hiển thị danh sách
+    Form Input Binding (v-model) - Ràng buộc dữ liệu form
+    Composition API cơ bản:
+    ref() - cho primitive values
+    reactive() - cho objects và arrays
+    computed() - tính toán tự động
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
