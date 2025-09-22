@@ -1,0 +1,9 @@
+{
+  "vue.codeActions.enabled": true,
+  "vue.complete.casing.tags": "kebab",
+  "vue.complete.casing.props": "camel",
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+  "typescript.suggest.autoImports": true,
+  "vue.server.hybridMode": false,
+  "vue.server.vitePress.supportMdFile": true
+}
