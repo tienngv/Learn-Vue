@@ -29,6 +29,7 @@ const alertMultilineText = () => {
 </script>
 
 <template>
+
   <h1>Event</h1>
   <button @click="sayHi">
     Say hi
